@@ -13,11 +13,9 @@ We build **wisp** and the small tools around it, for people who run coding agent
 
 ### Projects
 
-| | |
-|---|---|
-| **[wisp](https://github.com/WispAgents/wisp)** | Run Claude Code, Codex, Cursor, opencode, Copilot, Grok and Antigravity in parallel, in the background, on any of your machines. Read a one-screen report instead of the transcript. Web, desktop, Android and wisp Cloud. |
-| **[worktrash](https://github.com/WispAgents/worktrash)** | The git worktrees your agents left behind: see what they hold and what they cost on disk, and remove the ones that hold nothing. Branches always stay. |
-| **[monoflow](https://github.com/WispAgents/monoflow)** | A monorepo and CI environment built for agents. |
+- **[wisp](https://github.com/WispAgents/wisp)**: run Claude Code, Codex, Cursor, opencode, Copilot, Grok and Antigravity in parallel, in the background, on any of your machines, and read a one-screen report instead of the transcript. Web, desktop, Android and wisp Cloud.
+- **[worktrash](https://github.com/WispAgents/worktrash)**: the git worktrees your agents left behind. See what they hold and what they cost on disk, and remove the ones that hold nothing. Branches always stay.
+- **[monoflow](https://github.com/WispAgents/monoflow)**: a monorepo and CI environment built for agents.
 
 ### Try wisp
 
