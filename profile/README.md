@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://trywisp.dev/"><img src="assets/banner-v2.png" alt="Wisp Agents: manage the code your agents write" width="100%"></a>
+  <a href="https://trywisp.dev/"><img src="assets/banner-v2.png" alt="Wisp Agents: your coding agents, as code" width="100%"></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://x.com/trywispagents">@trywispagents</a>
 </p>
 
-We are **Wisp Agents** ([trywisp.dev](https://trywisp.dev/)). We build wisp, an app that manages the code your coding agents write, and the small tools around it, for people who run coding agents all day. All of it is free and open source.
+We are **Wisp Agents** ([trywisp.dev](https://trywisp.dev/)). We build wisp (your coding agents, as code) and the small tools around it, for people who run coding agents all day. All of it is free and open source.
 
 ### Wisp Agents
 
