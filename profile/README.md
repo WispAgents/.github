@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://trywisp.dev/"><img src="assets/banner-v2.png" alt="Wisp Agents: your coding agents, as code" width="100%"></a>
+  <a href="https://trywisp.dev/"><img src="assets/banner-v3.png" alt="Wisp Agents: your coding agents, as code" width="100%"></a>
 </p>
 
 <p align="center">
